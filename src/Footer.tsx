@@ -43,7 +43,7 @@ const Footer: FC = () => {
       </IconButton>
 
       <Typography variant='body2' align='center'>
-        &copy; 2024 Greg T. Wallace
+        &copy; 2025 Greg T. Wallace
       </Typography>
     </Box>
   );
